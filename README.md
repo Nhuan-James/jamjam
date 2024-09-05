@@ -1,8 +1,8 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo](thocon.netlify.app)
 
-## 🚀 How to Use
+## 🚀 How to Use https://github.com/Nhuan-James/jamjam
 
 1.  **Clone Repository**
 
