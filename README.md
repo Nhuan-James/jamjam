@@ -2,7 +2,7 @@
 
 [Demo](thocon.netlify.app)
 
-## 🚀 How to Use https://github.com/Nhuan-James/jamjam
+## 🚀 [How to Use] (https://github.com/Nhuan-James/jamjam)
 
 1.  **Clone Repository**
 
