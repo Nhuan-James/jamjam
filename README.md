@@ -2,13 +2,13 @@
 
 [Demo](thocon.netlify.app)
 
-## 🚀 [How to Use] (https://github.com/Nhuan-James/jamjam)
+## 🚀 [How to Use](https://github.com/Nhuan-James/jamjam)
 
 1.  **Clone Repository**
 
     ```bash
     # Clone this repository or download it
-    $ git clone 
+    $ git clone https://github.com/Nhuan-James/jamjam
 
     # Go into the repository
     $ cd happybirthday
